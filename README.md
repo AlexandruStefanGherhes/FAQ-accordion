@@ -34,7 +34,7 @@ Mobile version
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/FAQ-accordion)
-- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Single-piece-grid-component-/)
+- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/FAQ-accordion/)
 
 ## My process
 
